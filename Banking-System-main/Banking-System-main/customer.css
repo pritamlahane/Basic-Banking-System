@@ -1,0 +1,65 @@
+body{
+    font-family:'Courier New', monospace;
+    background-color: #93b0ff;
+}
+
+.bg-light{
+    background-color: #A1E3D8!important;
+}
+
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: #232022!important;
+    font-weight: bold;
+}
+
+.nav-link{
+    color: #000000!important;
+    font-family: Bookman, URW Bookman L, serif;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    background-color: rgb(105, 188, 221);
+    border-radius: 1rem;
+    font-weight: bold;
+}
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(71, 226, 54)!important;
+    color: rgb(24, 26, 21)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-info:hover{
+    background-color:#3a81c8!important;
+}
+.danger{
+background-color:#8f3ad4;
+font-size: 40px !important;
+font-weight: bold;
+}
+.light{
+background-color:#68e6f1;
+font-weight: bold;
+
+}
+
+
+.light-hover {
+background-color:#E6E6E6;
+}
+.container{
+    font-size: 20px;
+    
+}
